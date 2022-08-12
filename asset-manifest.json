@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93e385cf.css",
+    "main.js": "/static/js/main.71d4c591.js",
+    "static/media/usa-flag.jpg": "/static/media/usa-flag.06a3d6814fec09f6eeaf.jpg",
+    "static/media/text-bg-dk.jpg": "/static/media/text-bg-dk.42c3388ec81232c65baa.jpg",
+    "index.html": "/index.html",
+    "main.93e385cf.css.map": "/static/css/main.93e385cf.css.map",
+    "main.71d4c591.js.map": "/static/js/main.71d4c591.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93e385cf.css",
+    "static/js/main.71d4c591.js"
+  ]
+}
